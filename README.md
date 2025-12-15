@@ -1,8 +1,5 @@
  <!-- Architecture / System Overview Image -->
 
-<p align="center">
-  <img src="assets/architecture.png" alt="GenAI Cold Email Generator Architecture" width="800"/>
-</p>
 
 # GenAI Cold Email Generator
 ---
