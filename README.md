@@ -41,7 +41,9 @@ For example, if a job post requires **ML with Python and DevOps**, the generated
 ---
 
 ## Technical Architecture 🧠⚙️
-
+<p align="center">
+  <img src="assets/arc.png" alt="Cold-Email generator Architecture" width="800"/>
+</p>
 ### System Flow Diagram
 
 ```text
