@@ -3,6 +3,8 @@
 
 # GenAI Cold Email Generator
 
+🧠 Llama 3.1 | 🐍 Python | ⚡ GROQ | 🗂️ ChromaDB | 🌐 Web Scraping
+
 ## Tools & Technologies 🛠️
 
 * **LangChain** – Extracts text from career pages
