@@ -2,7 +2,6 @@
 
 
 # GenAI Cold Email Generator
----
 
 ## Tools & Technologies 🛠️
 
