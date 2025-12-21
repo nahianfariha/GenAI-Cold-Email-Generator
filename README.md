@@ -45,26 +45,6 @@ For example, if a job post requires **ML with Python and DevOps**, the generated
 <p align="center">
   <img src="arc.png" alt="Cold-Email generator Architecture" width="800"/>
 </p>
-### System Flow Diagram
-
-```text
-Career Page (Job Posting)
-        │
-        ▼
-LangChain (Text Extraction)
-        │
-        ▼
-Llama 3.1 (Job Parsing → JSON)
-        │
-        ▼
-ChromaDB (Skill ↔ Portfolio Matching)
-        │
-        ▼
-Llama 3.1 (Cold Email Generation)
-        │
-        ▼
-Generated Cold Email
-```
 
 ### 1. Job Post Extraction 📄
 
@@ -104,4 +84,9 @@ Generated Cold Email
 * GROQ provides fast inference using **LPU (Language Processing Unit)**, ensuring quick response times when generating emails.
 
 ---
+
+<p align="center">
+  <img src="rd0.png" alt="Cold-Email generator Architecture" width="800"/>
+</p>
+
 
